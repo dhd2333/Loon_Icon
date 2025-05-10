@@ -4,31 +4,47 @@
   "icons": [
     {
       "name": "ecg+",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/ecg+.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/ecg+.JPEG"
     },
     {
       "name": "hupu",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/hupu.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/hupu.JPEG"
     },
     {
       "name": "lanjiemao",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/lanjiemao.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/lanjiemao.JPEG"
     },
     {
       "name": "photomator",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/photomator.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/photomator.JPEG"
+    },
+    {
+      "name": "pillow",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/pillow.png"
     },
     {
       "name": "qinyan",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/qinyan.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/qinyan.JPEG"
+    },
+    {
+      "name": "quora",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/quora.png"
+    },
+    {
+      "name": "snow",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/snow.png"
     },
     {
       "name": "weibo",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/weibo.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/weibo.JPEG"
+    },
+    {
+      "name": "weixin",
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/weixin.png"
     },
     {
       "name": "wink",
-      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/wink.JPEG"
+      "url": "https://raw.githubusercontent.com/dhd2333/Loon_Icon/refs/heads/main/icons/wink.JPEG"
     }
   ]
 }
